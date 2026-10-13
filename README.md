@@ -11,7 +11,7 @@ Final-year Statistics student at the University of St Andrews (graduating summer
 ### Experience
 
 - **KMicro**: Software Prototype Developer, RAG over 600+ RFP documents (2025–present). Previously Market Research Data Analyst, GLM saturation models and anomaly detection (2024).
-- **Christian Dior Couture**: Global E-Commerce Performance Analyst. Consolidated 200+ data sources into one dataset and built the central performance dashboard (2026).
+- **Christian Dior Couture**: Global E-Commerce Performance Analyst. Consolidated 200+ data sources into one dataset and designed the central performance dashboard (2026).
 
 ### Tools
 
