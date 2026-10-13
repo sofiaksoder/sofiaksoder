@@ -1,4 +1,4 @@
-# Sofia Katarina Söderberg 
+# Sofia Söderberg 
 
 Final-year Statistics student at the University of St Andrews (graduating summer 2027). Relevant to my degree, I work mainly in Python on stochastic modelling, Monte Carlo simulation, and Bayesian inference. Alongside my academic experience, I build retrieval and data systems, AI-integrated solutions, and commissioned websites professionally.
 
