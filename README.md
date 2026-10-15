@@ -4,7 +4,9 @@ Final-year Statistics student at the University of St Andrews (graduating summer
 
 ### Projects
 
-**[undertow](https://github.com/sofiaksoder/undertow)**: a bootstrap particle filter for stochastic volatility, fitted on SPY 2010–2018 and tested out-of-sample on 2019–2024. It beats a 20-day rolling standard deviation (Diebold–Mariano p = 0.003) and is statistically indistinguishable from GARCH(1,1). A jump component fixes slow adaptation to large shocks. [Live demo](https://sofiaksoder.github.io/undertow/)
+**[Undertow](https://github.com/sofiaksoder/undertow)**: a bootstrap particle filter for stochastic volatility, fitted on SPY 2010–2018 and tested out-of-sample on 2019–2024. It beats a 20-day rolling standard deviation (Diebold–Mariano p = 0.003) and is statistically indistinguishable from GARCH(1,1). A jump component fixes slow adaptation to large shocks. [Live demo](https://sofiaksoder.github.io/undertow/)
+
+**[Stag Market](https://github.com/sofiaksoder/stag-market)**: a from-scratch C++20 exchange matching engine (~170 ns/order, 5.7M ops/sec) with Python bots and a React UI, compiled to WebAssembly so the demo runs in your browser. Features price-time priority, deterministic journal replay, and benchmarked optimizations.
 
 **[rag-retrieval-ranking](https://github.com/sofiaksoder/rag-retrieval-ranking)**: the scoring and evaluation core of a production RAG prototype, written in the pure Python standard library. It re-ranks results by a weighted geometric mean of similarity, recency and metadata, and reports hit@k and MRR with Wilson intervals, calibration (AUROC) and ablations.
 
